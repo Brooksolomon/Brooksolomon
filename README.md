@@ -20,6 +20,6 @@
 <p><img align="left" src="https://leetcard.jacoblin.cool/brooksolo?theme=nord&font=baloo&extension=null&show_rank=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brooksolomon&show_icons=true&locale=en" alt="brooksolomon" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brooksolomon&show_icons=true&locale=en&layout=compact" alt="brooksolomon" width=400px/></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brooksolomon&show_icons=true&locale=en&layout=compact" alt="brooksolomon" width=500px/></p>
 
 
