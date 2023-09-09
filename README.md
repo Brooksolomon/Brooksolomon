@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://leetcard.jacoblin.cool/brooksolo?font=baloo&extension=null&show_rank=false&border=0&ext=heatmap&theme=dark"/></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brooksolomon&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="brooksolomon"width=500px height=200px /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brooksolomon&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="brooksolomon"width=500px height=200px /></p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brooksolomon&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&card_width=450px" alt="brooksolomon"/></p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
