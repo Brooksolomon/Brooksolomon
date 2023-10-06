@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brook Solomon</h1>
 <h3 align="center">A hard working full-stack developer</h3>
 
-- 🔭 I’m currently working on [YANA]([https://github.com/Brooksolomon/EASY_CASH](https://github.com/doniverse/Yana))
+- 🔭 I’m currently working on [YANA]([https://github.com/doniverse/Yana](https://github.com/doniverse/Yana))
 
 - 🌱 I’m currently learning **Sveltekit**
 
