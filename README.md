@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Yana](https://github.com/doniverse/Yana)
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **SvelteKit** and **React**
 
 - 👯 I’m looking to collaborate on [The binger](https://github.com/Brooksolomon/The-binger-svelte-edition)
 
