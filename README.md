@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brook Solomon</h1>
-<h3 align="center">An obsessed programmer</h3>
+<h3 align="center">Trust the process</h3>
 
 - 🔭 I’m currently working on [Yana](https://github.com/doniverse/Yana)
 
