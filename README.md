@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [The binger](https://github.com/Brooksolomon/The-binger-svelte-edition)
 
-- 💬 Ask me about **Svelte**
+- 💬 Ask me about **Tv shows**
 
 - 📫 How to reach me **officialbrooksolo@gmail.com**
 
