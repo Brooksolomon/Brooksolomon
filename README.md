@@ -2,11 +2,11 @@
 <h3 align="center">Trust the process</h3>
 
 
-- 🔭 I’m currently working on [Yana](https://github.com/detached-space/totals)
+- 🔭 I’m currently working on [Totals](https://github.com/detached-space/totals)
 
-- 🌱 I’m currently learning **SvelteKit** and **React**
+- 🌱 I’m currently learning **Flutter** and **NextJs**
 
-- 👯 I’m looking to collaborate on [The binger](https://github.com/Brooksolomon/detached-space/totals)
+- 👯 I’m looking to collaborate on [Totals](https://github.com/Brooksolomon/detached-space/totals)
 
 - 💬 Ask me about **Tv shows**
 
