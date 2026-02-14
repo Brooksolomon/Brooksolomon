@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **NextJs**
 
-- 👯 I’m looking to collaborate on [Totals](https://github.com/Brooksolomon/detached-space/totals)
+- 👯 I’m looking to collaborate on [Totals](https://github.com/detached-space/totals)
 
 - 💬 Ask me about **Tv shows**
 
