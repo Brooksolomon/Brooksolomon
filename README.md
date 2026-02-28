@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Totals](https://github.com/detached-space/totals)
 
-- 💬 Ask me about **Tv shows**
+- 💬 Ask me about **Tv shows and Music**
 
 - 📫 How to reach me **officialbrooksolo@gmail.com**
 
