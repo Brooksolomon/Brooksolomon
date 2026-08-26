@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Totals](https://github.com/detached-space/totals)
+- 🔭 I’m currently working on [EthioDeploy](www.ethioDeploy.com)
 
 - 🌱 I’m currently learning **Flutter** and **NextJs**
 
